@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tigerinth
-- 👀 I’m interested in Embedded systems,emudev and app development
+- 👀 I’m interested in Embedded systems, emulator development and app development
 - 🌱 I’m currently learning C, C++, Kotlin
 
 <!---
