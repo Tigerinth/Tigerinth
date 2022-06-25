@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tigerinth
-- 👀 I’m interested in Embedded systems, emulator development and app development
-- 🌱 I’m currently learning C, C++, Kotlin
+-  I’m interested in Embedded systems, emulator development and app development
+-  I’m currently learning C, C++, Kotlin
 
 <!---
 Tigerinth/Tigerinth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
