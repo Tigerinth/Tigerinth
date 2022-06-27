@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emir
 -  I’m interested in Embedded systems, emulator development and app development
--  I’m currently learning C, C++, Kotlin
+-  I’m currently learning C, C++, Kotlin and Python
 
 --------------------------------
 
