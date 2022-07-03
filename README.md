@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emir
+- 👋 Hi, I’m Salih Emir
 -  I’m interested in Embedded systems, emulator development and app development
 -  I’m currently learning C, C++, Kotlin and Python
 
