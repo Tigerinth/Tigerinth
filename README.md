@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salih Emir
 -  I’m interested in Embedded systems, emulator development and app development
--  I’m currently learning C, C++, flutter and Python
+-  I’m currently learning C, C++, Java and Python
 
 --------------------------------
 
