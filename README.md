@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salih Emir
--  I’m interested in Embedded systems, emulator development and backend development
--  I’m currently learning C, C++, Java, springboot and Python
+-  I’m interested in Embedded systems,Artifical Intelligence, emulator development and backend development
+-  I’m currently learning C, C++, Java, Spring Boot and Python
 
 --------------------------------
 
